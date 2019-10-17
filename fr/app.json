@@ -152,7 +152,7 @@
 
   , "donation": {
         "title": "Nouvelle donation"
-      , "subtitle": "InMemori retient une commission de 5% sur le montant des dons afin de financer les frais bancaires."
+      , "subtitle": "InMemori retient une commission de 4% sur le montant des dons afin de financer les frais bancaires."
       , "title-success": "Merci de votre soutien !"
       , "input-firstname-placeholder": "Prénom"
       , "input-lastname-placeholder": "Nom"
