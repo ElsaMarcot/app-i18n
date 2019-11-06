@@ -67,7 +67,7 @@
     }
     
   , "signup": {
-        "title-v0": "Vereinen. Gedenken. Erinnern."
+        "title-v0": "Vereinen. Erweisen. Erinnern."
       , "text-v0": "Sie haben einen geliebten Menschen verloren.\nRichten Sie eine private Seite ein, um seinen Bekanntenkreis zu vereinen und sein Andenken zu ehren."
       , "title-v1": "Eine Seite einrichten"
       , "text-v1": "Gehen Sie zunächst näher auf den geliebten Menschen ein:"
@@ -115,7 +115,7 @@
                   , "text": "Anhand einer privaten und kostenlosen Internetseite können Sie den Tod Ihres Angehörigen mitteilen und rasch per E-Mail oder SMS Ihrem gesamten Bekanntenkreis Informationen über die Bestattung zukommen lassen."
                 }
               , "2": {
-                    "title": "Gedenken."
+                    "title": "Erweisen."
                   , "text": "Jeder, der von Ihnen den Link der Gedenkseite erhält, kann dort eine Beileidsbekundung, eine Erinnerung oder ein Foto veröffentlichen."
                 }
               , "3": {
