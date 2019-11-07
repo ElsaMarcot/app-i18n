@@ -67,7 +67,7 @@
     }
     
   , "signup": {
-        "title-v0": "Vereinen. Erweisen. Erinnern."
+        "title-v0": "Zusammenbringen. Erinnern. Bewahren."
       , "text-v0": "Sie haben einen geliebten Menschen verloren.\nRichten Sie eine private Seite ein, um seinen Bekanntenkreis zu vereinen und sein Andenken zu ehren."
       , "title-v1": "Eine Seite einrichten"
       , "text-v1": "Gehen Sie zunächst näher auf den geliebten Menschen ein:"
@@ -111,15 +111,15 @@
           , "text": "InMemori ist ein kostenloser Service, der Sie dabei unterstützt, Ihren Bekanntenkreis schnell zu vereinen und Beileidsbekundungen, Erinnerungen und Fotos zu empfangen."
           , "points": {
                 "1": {
-                    "title": "Vereinen."
+                    "title": "Zusammenbringen."
                   , "text": "Anhand einer privaten und kostenlosen Internetseite können Sie den Tod Ihres Angehörigen mitteilen und rasch per E-Mail oder SMS Ihrem gesamten Bekanntenkreis Informationen über die Bestattung zukommen lassen."
                 }
               , "2": {
-                    "title": "Erweisen."
+                    "title": "Erinnern."
                   , "text": "Jeder, der von Ihnen den Link der Gedenkseite erhält, kann dort eine Beileidsbekundung, eine Erinnerung oder ein Foto veröffentlichen."
                 }
               , "3": {
-                    "title": "Erinnern."
+                    "title": "Bewahren."
                   , "text": "Lassen Sie sich einen schönen Würdigungsband zusenden, der alle Nachrichten und Fotos der Gedenkseite zu Ehren Ihres Angehörigen enthält."
                 }
           }
