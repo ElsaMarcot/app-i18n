@@ -285,7 +285,7 @@
         "link": {
             "title": "Partager le faire-part"
           , "text": "Envoyez le lien de l'espace à toutes les personnes qui souhaiteraient se manifester :"
-          , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer un espace InMemori, sur internet, afin de lui rendre hommage.\n\nEn vous rendant sur cet espace privé vous pourrez : \n- Consulter les informations sur les obsèques de {{firstname}}\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nN'hésitez pas à partager cet espace en transférant ce message à toutes les personnes concernées, cela nous aiderait.\n\nAmitiés,\n\n{{context.senderName}}"
+          , "message": "Bonjour, \n\nC'est avec une immense tristesse que nous vous annonçons le décès de {{fullname}}.\n\nNous venons de créer un espace InMemori, sur internet, afin de lui rendre hommage.\n\nEn vous rendant sur cet espace privé vous pourrez : \n- Consulter les informations sur les obsèques de {{firstname}}\n- Partager un message de condoléances, un souvenir, une photo\n\nNous apprécierons vos messages de soutien dans ces moments difficiles.\n\nN'hésitez pas à partager cet espace en transférant ce message à toutes les personnes concernées, cela nous aiderait.\n\nAmitiés,"
         }
       , "admin": {
             "title": "Ajouter un administrateur"
