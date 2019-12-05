@@ -189,7 +189,7 @@ Le Site peut contenir des liens vers les sites internet des partenaires commerci
 
 <br/>
 <br/>
-### Article 1 : Données personnelles
+#### Article 1 : Données personnelles
 
 Dans le cadre de leurs relations contractuelles, InMemori et l’administrateur s’engagent à respecter la règlementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (« **RGPD** »). 
 Pour les besoins du présent accord, les parties conviennent que lorsqu’ils sont utilisés avec une majuscule, les termes ont la signification qui leur est donnée à l’article 4 du RGPD. 
