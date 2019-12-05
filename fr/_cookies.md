@@ -141,7 +141,7 @@ Si vous souhaitez obtenir plus d’informations sur nos pratiques concernant les
 
 <br/>  
 
-### **7.	 Durée de consevation**
+### **7.	 Durée de conservation**
 
 <br/>  
 
