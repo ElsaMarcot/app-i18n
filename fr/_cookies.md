@@ -222,7 +222,7 @@ Les Parties conviennent qu’il revient à InMemori d’informer les Personnes C
 •	la durée de conservation des Données Personnelles ; 
 •	la faculté pour les Personnes Concernées d’exercer les droits issus du RGPD, et notamment le droit d’accès, de rectification, d’effacement, de limitation ainsi que le droit de s’opposer au Traitement défini ci-dessus et le droit d’adresser une réclamation à la CNIL.
 <br/>
-#### 1.3 : Responsabilités 
+#### 1.3 : Responsabilités
 <br/>
 L’Administrateur reconnait qu’il est de sa responsabilité de se conformer au RGPD et de s’assurer de la licéité du traitement qu’il effectue, en conformité avec les finalités poursuivies par InMemori.
 InMemori et l’Administrateur sont  responsables conjoints des Traitements effectués conformément à la présente politique de confidentialité.
@@ -245,7 +245,7 @@ Les Personnes Concernées exercent leurs droits conformément aux stipulations c
 Il est convenu entre l’Administrateur et InMemori que les Personnes Concernées exercent les droits que le RGPD leur confère à l’égard d’InMemori. 
 Toute réclamation concernant les droits des Personnes Concernées peut être effectuée à l’adresse suivante <data@inmemori.com>.
 <br/>
-#### 1.5 : Mise à disposition des grandes lignes de l’accord 
+#### 1.5 : Mise à disposition des grandes lignes de l'accord
 <br/>
 Conformément à l’article 26 du RGPD, les grandes lignes du présent accord sont mises à disposition de la Personne Concernée par voie d’annexe à la politique de confidentialité.  
 
