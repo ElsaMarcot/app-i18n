@@ -89,7 +89,7 @@
                   , "org": [
                         "Toute sa vie {{capitalize firstname}} a servi les autres au sein de l’association {{org}}.\n\nNous souhaitons poursuivre ce combat en sa mémoire et organisons une collecte de dons pour soutenir cette association qui lui tenait tellement à coeur. Nous pensons que c’est ce que {{capitalize firstname}} aurait souhaité. Un grand merci pour votre générosité."
                       , "Comme vous le savez, {{capitalize firstname}} a été emporté par la maladie après des années de combat. En mémoire de {{capitalize firstname}} et de toutes les autres victimes de cette maladie, nous avons décidé de soutenir l’association {{org}} afin de financer la recherche et de sauver des milliers de vies futures. Un grand merci de soutenir cette cause qui nous tient particulièrement à coeur."
-                      , "{{capitalize firstname}} a toujours eu à coeur d'aider les autres et s'est natuellement engagé au sein de l’association {{org}} qui le touchait tout particulièrement. En son hommage, soutenons cette association. Un grand merci pour votre générosité."
+                      , "{{capitalize firstname}} a toujours eu à coeur d'aider les autres et s'est naturellement engagé au sein de l’association {{org}} qui le touchait tout particulièrement. En son hommage, soutenons cette association. Un grand merci pour votre générosité."
                     ]
                 }
               , "text-status-family": "Une collecte est en cours pour aider au financement des obsèques.\nÀ ce jour le montant des dons s'élève à <strong>{{total}}</strong>.\nVous pouvez décider de mettre fin à la collecte pour que les fonds soient versés."
