@@ -11,6 +11,8 @@ InMemori accorde la plus grande importance et le plus grand soin à la protectio
 
 Nous vous prions de lire attentivement cette Politique afin de prendre connaissance de nos pratiques concernant vos Données Personnelles et la façon dont nous les traitons. Nous vous recommandons également de la consulter régulièrement afin de prendre connaissance des éventuelles modifications de celle-ci. Ces modifications peuvent intervenir à tout moment mais nous veillerons à ce que vous soyez informés des mises à jour de la Politique soit par une mention spéciale sur le Site, soit par un avertissement personnalisé.  
 
+<br/>  
+
 ### **1.	Définitions**
 
 « **Administrateur** » : désigne le créateur d’un Espace en Hommage ainsi que toute personne ayant été désignée pour gérer un Espace en Hommage.
@@ -37,6 +39,8 @@ Nous vous prions de lire attentivement cette Politique afin de prendre connaissa
 
 Chaque terme débutant par une majuscule, qu’il soit employé au singulier ou au pluriel, a le sens qui lui est donné ci-dessus. 
 
+<br/>  
+
 ### **2.	Identité et coordonnées des responsables de traitement et du délégué à la protection des données personnelles d'InMemori**
 
 InMemori traite vos Données Personnelles en qualité de responsable de traitement. Ses coordonnées sont les suivantes : 
@@ -50,6 +54,8 @@ Par ailleurs, l’Administrateur d’un Espace en Hommage est, au sens de l’ar
 InMemori a également nommé un délégué à la protection des Données personnelles que vous pouvez joindre pour toute question relative à vos Données Personnelles ou à l’exercice de vos droits aux coordonnées suivantes : 
 66 Avenue des Champs-Elysées - 75008 PARIS
 <marly.diallo@inmemori.com>
+
+<br/>  
 
 ### **3.	 Données personnelles collectées** 
 
@@ -74,8 +80,11 @@ InMemori collecte, directement ou indirectement, les informations suivantes :
 
 Les informations marquées d’une étoile (*) sont les données obligatoires sans lesquelles les services d’InMemori ne peuvent être fournis.
 
+<br/>  
 
 ### **4.	 Finalités du traitement et bases juridiques**
+
+<br/>  
 
 #### 4.1. Pourquoi traitons-nous vos données personnelles ? 
 
@@ -92,6 +101,8 @@ Les Traitements mis en œuvre par InMemori sont destinés à la réalisation des
 -	Elaboration de statistiques ;
 -	Lutte contre la fraude (notamment contre la création de faux comptes organisant des collectes de dons à des fins frauduleuses).  
 
+<br/>  
+
 #### 4.2. Sur quels fondements traitons-nous vos données personnelles ? 
 
 InMemori fonde les Traitements qu’elle effectue sur les bases juridiques suivantes :
@@ -101,6 +112,8 @@ InMemori fonde les Traitements qu’elle effectue sur les bases juridiques suiva
 •	L’exécution d’un contrat : certaines informations sont nécessaires à la réalisation des objets des contrats d’InMemori. Par exemple, nous ne pouvons vous fournir un service de livraison de fleurs sans collecter une adresse de livraison.
 
 •	Les intérêts légitimes d’InMemori : certaines de vos données sont utilisées, notamment à des fins statistiques, afin d’améliorer nos fonctionnalités et vous proposer des services de qualité. InMemori veille toutefois au respect du principe de minimisation des données et agit en prenant en considération vos intérêts, droits et libertés fondamentaux.
+
+<br/>  
 
 ### **5.	Destinataires de vos données personnelles** 
 
@@ -116,6 +129,8 @@ Par ailleurs, InMemori pourrait être amenée à communiquer à des tiers vos Do
 
 Enfin, si InMemori ou tout ou partie de ses actifs sont rachetés par un tiers, les Données Personnelles seront transférées au nouveau propriétaire auquel il reviendra d’assumer les obligations incombant au responsable de traitement.
 
+<br/>  
+
 ### **6.	 Transferts internationaux des données personnelles**
 
 Les Données Personnelles collectées par InMemori peuvent être transférées vers et stockées dans une destination située en dehors de l’Espace Economique Européen (EEE). Le cas échéant, tout transfert est effectué moyennant des garanties appropriées en conformité avec la réglementation applicable en matière de protection de données à caractère personnel. Ainsi, tout transfert de vos Données Personnelles en dehors de l’EEE se fait auprès de pays assurant un niveau adéquat de protection (comme déterminé par la Commission européenne).
@@ -124,11 +139,17 @@ Dans le cas où ces pays tiers ne bénéficieraient pas d’une décision d’ad
 
 Si vous souhaitez obtenir plus d’informations sur nos pratiques concernant les transferts internationaux de données, contactez-nous à l’adresse suivante : <data@inmemori.com>.
 
+<br/>  
+
 ### **7.	 Durée de consevation**
+
+<br/>  
 
 #### 7.1. Conservation des données des Espaces en Hommage
 
 Vos Données Personnelles sont conservées pour une durée strictement nécessaire à la finalité de leur traitement. Compte tenu de l’attachement fort d’InMemori au travail de deuil et de mémoire de chaque personne, les Espaces en Hommage restent actifs vingt années après leur création en l’absence de décision de la part de l’Administrateur de clôturer l’Espace avant cette échéance. Après clôture de l’Espace en Hommage (soit par décision de l’Administrateur, soit pour inactivité de l’Espace pendant plus de trois années), celui-ci est conservé par les services InMemori pour une durée de cinq ans, sans qu’il ne soit possible pour les Utilisateurs d’y accéder. Les Espaces en Hommage non activés sont supprimés dans un délai de 3 mois à compter de leur création.
+
+<br/>  
 
 #### 7.2. Conservation des autres données
 
@@ -145,11 +166,15 @@ La politique générale de conservation s’agissant des autres Données Personn
 
 Vos Données Personnelles peuvent également être conservées par InMemori pour respecter les diverses obligations comptables et légales qui lui incombent. Au-delà de ces durées, vos données sont soit supprimées, soit conservées de manière anonymisée à des fins statistiques. 
 
+<br/>  
+
 ### **8.	 Sécurité de vos données personnelles** 
 
 InMemori met en œuvre toutes les mesures techniques et organisationnelles appropriées pour garantir les droits et libertés de ses Utilisateurs notamment en protégeant les Données Personnelles contre l’accès non autorisé, la destruction, la perte, l’altération, la divulgation non autorisée de données à caractère personnel transmises, conservées ou traitées d’une autre manière.
 
 InMemori s’engage à cet égard à respecter la politique interne de violation de Données Personnelles qu’elle a mise en place et à notifier toute violation de données à caractère personnel susceptible d’engendrer un risque pour les droits et libertés des personnes concernées à l’autorité de contrôle compétente et/ou, aux personnes concernées. 
+
+<br/>  
 
 ### **9.	 Information sur vos droits** 
 
@@ -165,6 +190,8 @@ Conformément à la Règlementation Données Personnelles, vous disposez des dro
 
 •	Droit de définir des directives relatives au sort de vos Données Personnelles après votre mort : vous pouvez déterminer (de manière générale ou spécifique) au préalable ce qu’il adviendra de vos données après votre décès. Vous avez la possibilité de modifier ou révoquer ces directives à tout moment. 
 
+<br/>  
+
 ### **10.	 Exercice de vos droits** 
 
 Pour exercer n’importe lequel des droits susmentionnés ou pour toute question relative à vos Données Personnelles, n’hésitez pas à contacter InMemori à l’adresse suivante : <data@inmemori.com>. 
@@ -173,9 +200,13 @@ Vous pouvez également soumettre toute réclamation sur la manière dont InMemor
 
 InMemori se réserve le droit de refuser une demande infondée ou abusive. Par exemple, lorsqu’une même demande nous ait soumise dix fois alors que celle-ci a déjà été satisfaite ou est en cours de traitement. 
 
+<br/>  
+
 ### **11.	Cookies** 
 
 Le Site www.inmemori.fr utilise des cookies. Pour plus d’informations s’agissant de l’utilisation de cookies sur notre Site, vous pouvez consulter notre Politique relative aux Cookies en cliquant sur ce lien : <https://www.inmemori.com/cookies>.
+
+<br/>  
 
 ### **12.	 Liens vers d'autres sites internet** 
 
@@ -188,14 +219,16 @@ Le Site peut contenir des liens vers les sites internet des partenaires commerci
 ### Annexe - Relations entre InMemori et les Administrateurs d’un Espace en Hommage en tant que co-responsables du traitement
 
 <br/>
-<br/>
+
 #### Article 1	: Données Personnelles 
 
 Dans le cadre de leurs relations contractuelles, InMemori et l’administrateur s’engagent à respecter la règlementation en vigueur applicable au traitement de données à caractère personnel et, en particulier, le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (« **RGPD** »). 
 Pour les besoins du présent accord, les parties conviennent que lorsqu’ils sont utilisés avec une majuscule, les termes ont la signification qui leur est donnée à l’article 4 du RGPD. 
 
 Le présent accord a pour objet de définir les conditions dans lesquelles un administrateur, c’est-à-dire toute personne ayant créé une page en hommage et qui en assure la gestion (ci-après, « **l’Administrateur** ») et InMemori, en tant que Co-Responsables de Traitement, déterminent leurs obligations et responsabilités respectives afin de respecter les exigences du RGPD. 
+
 <br/>
+
 #### 1.1	: Caractéristiques du Traitement de Données à Caractère Personnel 
 
 Nature et Finalités du Traitement :
@@ -211,7 +244,9 @@ Durée du Traitement
 InMemori supprime les Données Personnelles et les données relatives au Défunt lorsque les pages en hommage générées à la suite du décès du Défunt ne sont pas exploitées pendant une période de cinq années. 
 
 Lorsqu’une page en hommage est exploitée, les Données Personnelles et les données relatives au défunt sont conservées par InMemori tout le temps où les pages en hommage sont en ligne, au libre choix de l’Administrateur, conformément à la politique de confidentialité d’InMemori. 
+
 <br/>
+
 #### 1.2 : Information des Personnes Concernées 
 
 Les Parties conviennent qu’il revient à InMemori d’informer les Personnes Concernées sur le présent Traitement de Données Personnelles et notamment : 
@@ -221,7 +256,9 @@ Les Parties conviennent qu’il revient à InMemori d’informer les Personnes C
 •	la base juridique du Traitement ; 
 •	la durée de conservation des Données Personnelles ; 
 •	la faculté pour les Personnes Concernées d’exercer les droits issus du RGPD, et notamment le droit d’accès, de rectification, d’effacement, de limitation ainsi que le droit de s’opposer au Traitement défini ci-dessus et le droit d’adresser une réclamation à la CNIL.
+
 <br/>
+
 #### 1.3 : Responsabilités
 
 L’Administrateur reconnait qu’il est de sa responsabilité de se conformer au RGPD et de s’assurer de la licéité du traitement qu’il effectue, en conformité avec les finalités poursuivies par InMemori.
@@ -239,12 +276,16 @@ L’Administrateur s’engage entre autres à :
 - ne pas télécharger le contenu InMemori ou en faire un usage autre que celui prévu par les CGU.
 
 Les Personnes Concernées exercent leurs droits conformément aux stipulations ci-dessous. 
+
 <br/>
+
 #### 1.4 : Exercice des droits des Personnes Concernées et point de contact
 
 Il est convenu entre l’Administrateur et InMemori que les Personnes Concernées exercent les droits que le RGPD leur confère à l’égard d’InMemori. 
 Toute réclamation concernant les droits des Personnes Concernées peut être effectuée à l’adresse suivante <data@inmemori.com>.
+
 <br/>
+
 #### 1.5 : Mise à disposition des grandes lignes de l'accord
 
 Conformément à l’article 26 du RGPD, les grandes lignes du présent accord sont mises à disposition de la Personne Concernée par voie d’annexe à la politique de confidentialité.  
