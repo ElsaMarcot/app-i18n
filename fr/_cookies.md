@@ -3,7 +3,7 @@
 
 ## Politique de confidentialité d'InMemori
 <br/>
-_Version mise à jour le 28 mars 2019_
+Version mise à jour le 28 mars 2019
 
 Cette politique de confidentialité (ci-après « **Politique** ») est destinée à fournir aux utilisateurs (ci-après les « **Utilisateurs** » ou « **vous** ») du site www.inmemori.com (le « **Site** ») des informations relatives aux traitements par la société par actions simplifiée InMemori (ci-après « **InMemori** » ou « **nous** ») de leurs données à caractère personnel (ci-après « **Données Personnelles** ») ainsi que des informations sur les droits dont ils disposent.
 
@@ -197,7 +197,7 @@ Pour les besoins du présent accord, les parties conviennent que lorsqu’ils so
 Le présent accord a pour objet de définir les conditions dans lesquelles un administrateur, c’est-à-dire toute personne ayant créé une page en hommage et qui en assure la gestion (ci-après, « **l’Administrateur** ») et InMemori, en tant que Co-Responsables de Traitement, déterminent leurs obligations et responsabilités respectives afin de respecter les exigences du RGPD. 
 <br/>
 #### 1.1	: Caractéristiques du Traitement de Données à Caractère Personnel 
-<br/>
+
 Nature et Finalités du Traitement :
 Le Traitement a pour objet la création et la gestion d’une « page en hommage » dédiée à une personne décédée (ci-après, le « **Défunt** »), par toute personne désignée comme étant Administrateur.
 
@@ -213,7 +213,7 @@ InMemori supprime les Données Personnelles et les données relatives au Défunt
 Lorsqu’une page en hommage est exploitée, les Données Personnelles et les données relatives au défunt sont conservées par InMemori tout le temps où les pages en hommage sont en ligne, au libre choix de l’Administrateur, conformément à la politique de confidentialité d’InMemori. 
 <br/>
 #### 1.2 : Information des Personnes Concernées 
-<br/>
+
 Les Parties conviennent qu’il revient à InMemori d’informer les Personnes Concernées sur le présent Traitement de Données Personnelles et notamment : 
 •	l’identité et des coordonnées d’InMemori et du fait qu’InMemori et l’Administrateur seront les destinataires des Données Personnelles des utilisateurs ayant publié un contenu sur la page en hommage et des données relatives au Défunt ; 
 •	les coordonnées du délégué à la protection des données, le cas échéant ; 
@@ -223,7 +223,7 @@ Les Parties conviennent qu’il revient à InMemori d’informer les Personnes C
 •	la faculté pour les Personnes Concernées d’exercer les droits issus du RGPD, et notamment le droit d’accès, de rectification, d’effacement, de limitation ainsi que le droit de s’opposer au Traitement défini ci-dessus et le droit d’adresser une réclamation à la CNIL.
 <br/>
 #### 1.3 : Responsabilités
-<br/>
+
 L’Administrateur reconnait qu’il est de sa responsabilité de se conformer au RGPD et de s’assurer de la licéité du traitement qu’il effectue, en conformité avec les finalités poursuivies par InMemori.
 InMemori et l’Administrateur sont  responsables conjoints des Traitements effectués conformément à la présente politique de confidentialité.
 L’Administrateur s’engage à notifier InMemori, dans les meilleurs délais, de toute Violation de Données à Caractère Personnel dont il a connaissance. InMemori se chargera de la notification de ladite Violation de Données à Caractère Personnel, conformément aux articles 33 et 34 du RGPD.
@@ -241,12 +241,12 @@ L’Administrateur s’engage entre autres à :
 Les Personnes Concernées exercent leurs droits conformément aux stipulations ci-dessous. 
 <br/>
 #### 1.4 : Exercice des droits des Personnes Concernées et point de contact
-<br/>
+
 Il est convenu entre l’Administrateur et InMemori que les Personnes Concernées exercent les droits que le RGPD leur confère à l’égard d’InMemori. 
 Toute réclamation concernant les droits des Personnes Concernées peut être effectuée à l’adresse suivante <data@inmemori.com>.
 <br/>
 #### 1.5 : Mise à disposition des grandes lignes de l'accord
-<br/>
+
 Conformément à l’article 26 du RGPD, les grandes lignes du présent accord sont mises à disposition de la Personne Concernée par voie d’annexe à la politique de confidentialité.  
 
 
