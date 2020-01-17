@@ -121,7 +121,7 @@
     }
 
   , "shipping": {
-        "conditions": "Livraison en France métropolitaine uniquement."
+        "conditions": "Livraison en Europe uniquement."
       , "label-withInvoice": "Utiliser une autre adresse pour la facturation ?"
       , "input-email-placeholder": "Email"
       , "input-name-placeholder": "Nom"
