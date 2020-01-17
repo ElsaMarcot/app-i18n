@@ -119,7 +119,7 @@
         "label-qty": "Cantidad"
     }
   , "shipping": {
-        "conditions": "Entrega únicamente en Francia."
+        "conditions": "Entrega únicamente en Europa."
       , "label-withInvoice": "Otra dirección de facturación"
       , "input-name-placeholder": "Nombre"
       , "input-email-placeholder": "Email"
