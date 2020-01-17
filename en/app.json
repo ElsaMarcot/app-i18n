@@ -121,7 +121,7 @@
     }
     
   , "shipping": {
-        "conditions": "Shipping to France only."
+        "conditions": "Shipping to Europe only."
       , "label-withInvoice": "Use a different addresse for invoice ?"
       , "input-name-placeholder": "Name"
       , "input-email-placeholder": "E-mail"
