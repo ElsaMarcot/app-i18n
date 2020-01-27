@@ -217,7 +217,7 @@
         }
       , "step2": {
             "title": "Livraison"
-          , "subtitle": "France métropolitaine uniquement"
+          , "subtitle": "Europe uniquement"
           , "cta": "Suivant"
         }
       , "step3": {
@@ -255,7 +255,7 @@
         }
       , "step3": {
             "title": "Livraison"
-          , "subtitle": "France métropolitaine uniquement"
+          , "subtitle": "Europe uniquement"
           , "cta": "Suivant"
         }
       , "step4": {
